@@ -11,7 +11,7 @@
   z-index: -1;
 }
 
-h1, h2 {
+h1, h2, h3, h4 {
   color: white;
   font-family: Verdana, Tahoma, sans-serif;
   font-weight: bold;
@@ -28,7 +28,7 @@ h2 { font-size: 3rem; }
 @media (max-width: 750px) {
     #background-video { display: none; }
     body {
-      background: url("https://www.dropbox.com/s/slo4r2qkffdr08m/7T_sag.png?dl=0") no-repeat;
+      background: url("https://www.dropbox.com/s/slo4r2qkffdr08m/7T_sag.png") no-repeat;
       background-size: cover;
     }
 }
