@@ -10,7 +10,7 @@ video#background-video {
   left: 0;
   width: 45%;
   height: 45%;
-  object-fit: cover;
+  object-fit: contain;
   z-index: -1;
 }
 
