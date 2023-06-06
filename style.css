@@ -8,8 +8,8 @@ video#background-video {
   position: fixed;
   top: 0;
   left: 0;
-  width: 75%;
-  height: 75%;
+  width: 45%;
+  height: 45%;
   object-fit: cover;
   z-index: -1;
 }
