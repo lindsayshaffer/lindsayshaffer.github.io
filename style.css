@@ -2,10 +2,11 @@ body, html {
     margin: 0;
     padding: 0;
     height: 100%;
+    background-color: rgb(0,0,2);
 }
 
 video#background-video {
-  position: fixed;
+  position: 50% 50%;
   top: 0;
   left: 0;
   width: 100%;
