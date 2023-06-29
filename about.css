@@ -30,12 +30,22 @@ li a:hover {
   }
 
 .active {
-  background-color: #04AA6D;
+    background-color: #04AA6D;
   }
 
  /* Add a gray right border to all list items, except the last item (last-child) */
 
 
 li:last-child {
-  border-right: none;
+    border-right: none;
 } 
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: Verdana, Tahoma, sans-serif;
+    color: black;
+    text-align: left;
+    text-indent: 50px;
+}
