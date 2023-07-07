@@ -43,7 +43,7 @@ li:last-child {
 body {
     margin: auto;
     width: 640px;
-    padding: 50px;
+    padding-top: 50px;
     height: 100%;
     font-family: 'Lexend Deca', sans-serif;
     color: #2E475D;
