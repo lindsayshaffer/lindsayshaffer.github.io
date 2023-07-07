@@ -41,10 +41,11 @@ li:last-child {
 } 
 
 body {
-    margin: 0;
-    padding: 0;
+    margin: auto;
+    width: 640px;
+    padding: 50px;
     height: 100%;
-    font-family: Verdana, Tahoma, sans-serif;
-    color: black;
-    text-align: left;
+    font-family: 'Lexend Deca', sans-serif;
+    color: #2E475D;
+    /* text-align: left; */
 }
